@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   いろいろなネタで140文字以上の何かを書く場所です。知らんけど。
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sh1shamo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: sh15ham0
 github_username:  sh1shamo
 
 # Build settings
